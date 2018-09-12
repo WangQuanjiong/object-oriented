@@ -1,0 +1,4 @@
+﻿  Word_Count.cpp
+f:\新建文件夹\word_count\word_count\word_count.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+f:\新建文件夹\word_count\word_count\word_count.cpp(89): warning C4715: “count_word”: 不是所有的控件路径都返回值
+  Word_Count.vcxproj -> F:\新建文件夹\Word_Count\Debug\Word_Count.exe
